@@ -1,4 +1,4 @@
-package coreYzJava;
+package corejava;
 import java.util.*;
 
 /**

@@ -4,7 +4,7 @@
  * @author
  */
 
-package coreYzJava;
+package corejava;
 
 public class FirstSample {
 
